@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# GitaSaar
-=======
 # 🪈 GitaSaar 🪶
 
 ## Check it on : https://gitasaar.vercel.app/
